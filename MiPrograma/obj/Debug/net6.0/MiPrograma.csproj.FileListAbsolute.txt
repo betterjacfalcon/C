@@ -1,0 +1,15 @@
+C:\Users\jacfa\OneDrive\Documents\project\C\MiPrograma\MiPrograma\bin\Debug\net6.0\MiPrograma.exe
+C:\Users\jacfa\OneDrive\Documents\project\C\MiPrograma\MiPrograma\bin\Debug\net6.0\MiPrograma.deps.json
+C:\Users\jacfa\OneDrive\Documents\project\C\MiPrograma\MiPrograma\bin\Debug\net6.0\MiPrograma.runtimeconfig.json
+C:\Users\jacfa\OneDrive\Documents\project\C\MiPrograma\MiPrograma\bin\Debug\net6.0\MiPrograma.dll
+C:\Users\jacfa\OneDrive\Documents\project\C\MiPrograma\MiPrograma\bin\Debug\net6.0\MiPrograma.pdb
+C:\Users\jacfa\OneDrive\Documents\project\C\MiPrograma\MiPrograma\obj\Debug\net6.0\MiPrograma.csproj.AssemblyReference.cache
+C:\Users\jacfa\OneDrive\Documents\project\C\MiPrograma\MiPrograma\obj\Debug\net6.0\MiPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacfa\OneDrive\Documents\project\C\MiPrograma\MiPrograma\obj\Debug\net6.0\MiPrograma.AssemblyInfoInputs.cache
+C:\Users\jacfa\OneDrive\Documents\project\C\MiPrograma\MiPrograma\obj\Debug\net6.0\MiPrograma.AssemblyInfo.cs
+C:\Users\jacfa\OneDrive\Documents\project\C\MiPrograma\MiPrograma\obj\Debug\net6.0\MiPrograma.csproj.CoreCompileInputs.cache
+C:\Users\jacfa\OneDrive\Documents\project\C\MiPrograma\MiPrograma\obj\Debug\net6.0\MiPrograma.dll
+C:\Users\jacfa\OneDrive\Documents\project\C\MiPrograma\MiPrograma\obj\Debug\net6.0\refint\MiPrograma.dll
+C:\Users\jacfa\OneDrive\Documents\project\C\MiPrograma\MiPrograma\obj\Debug\net6.0\MiPrograma.pdb
+C:\Users\jacfa\OneDrive\Documents\project\C\MiPrograma\MiPrograma\obj\Debug\net6.0\MiPrograma.genruntimeconfig.cache
+C:\Users\jacfa\OneDrive\Documents\project\C\MiPrograma\MiPrograma\obj\Debug\net6.0\ref\MiPrograma.dll
