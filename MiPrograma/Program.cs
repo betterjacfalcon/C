@@ -6,21 +6,21 @@ namespace MiPrograma
 
     class Program
     {
-        static void Main(string[] args)
-        {
-            //Este es mi primer programa 
+        /*static void Main(string[] args)
+       {
+           //Este es mi primer programa 
 
-            /* Este tambien es un comentario
-             * pero de varias lineas*/
+           /* Este tambien es un comentario
+            * pero de varias lineas
 
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, Hispano!");
-            Console.ReadLine();
-            Console.WriteLine(5+5);
-            
-        }        
-        
+           Console.WriteLine("Hello, World!");
+           Console.WriteLine("Hello, Hispano!");
+           Console.ReadLine();
+           Console.WriteLine(5+5);
+
+       } */
+
     }
-}
+    }
 
 
