@@ -2,9 +2,9 @@
 
 namespace MiPrograma
 {
-	class Tipos
+	class TiposDatos
 	{
-        static void Main(string[] args) {
+      public void datos() {
             
                 /*Tipo de datos
                      * byte: 8 byte    -> 0-155
@@ -44,7 +44,7 @@ namespace MiPrograma
                 Console.WriteLine(numero6);
                 Console.WriteLine(numero7);
                 Console.WriteLine(numero8);
-                Console.WriteLine(numero9);
+                Console.WriteLine(numero9); 
         }
     }
 }
