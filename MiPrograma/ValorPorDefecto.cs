@@ -5,10 +5,12 @@
         static void Main(string[] args)
         {
             //Tipo de Datos
+            Console.WriteLine("Tipo de Datos");
             TiposDatos d= new TiposDatos();
             d.datos();
-                            
+
             //Valores por defecto
+            Console.WriteLine("Valores por defecto");
             int numero1 = 0;
             double numero2= 0.0;
             bool isSabado = false;           
@@ -32,6 +34,10 @@
             Console.WriteLine(isLunes);
             Console.WriteLine(cadena1);
             Console.WriteLine(letra1);
+
+            Console.WriteLine("Operadores");
+            Operadores opereracion = new Operadores();
+            opereracion.operadores();
         }
     }
 }
